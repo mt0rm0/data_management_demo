@@ -1,0 +1,15 @@
+columns:
+- Tweet ID
+- Text
+- User
+- Created At
+- Likes
+- Retweets
+- Sentiment
+created_at: '2025-10-07T16:13:36.696320'
+description: Added update 1 dataset to the previous version
+num_rows: 900
+source:
+- main.csv
+- update1.csv
+version: v2
